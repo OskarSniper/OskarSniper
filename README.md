@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate full-stack developer, software architect and network security enthusiast from Austria</h3>
 
-- 🔭 I’m currently working on **Cloud5**
+- 🔭 I’m currently working on **Cloud5**, **IntelMQ**
 
 - 🌱 I’m currently learning **AI (Tensorflow), Big Data Streaming (Kafka)**
 
